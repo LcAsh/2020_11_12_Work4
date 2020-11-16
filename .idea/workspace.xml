@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="189af9eb-d701-48be-9e1d-abdb89fe7bf7" name="Default Changelist" comment="" />
+    <list default="true" id="189af9eb-d701-48be-9e1d-abdb89fe7bf7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kBfinKTDlW9YEM91islJxFmvba" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BOOK" />
   </component>
   <component name="RunManager" selected="Application.Pipethread">
     <configuration name="IOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -58,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605179034029</updated>
       <workItem from="1605179037357" duration="4874000" />
+      <workItem from="1605229429376" duration="110000" />
     </task>
     <servers />
   </component>
@@ -65,6 +72,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="367" y="388" key="FileChooserDialogImpl" timestamp="1605229539295">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="367" y="388" key="FileChooserDialogImpl/0.0.2318.1265@0.0.2318.1265" timestamp="1605229539295" />
     <state width="1114" height="268" key="GridCell.Tab.0.bottom" timestamp="1605183934257">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
@@ -97,6 +108,10 @@
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
     <state width="1114" height="268" key="GridCell.Tab.1.right/0.0.2318.1265@0.0.2318.1265" timestamp="1605183934266" />
+    <state x="275" y="457" key="com.intellij.ide.util.TipDialog" timestamp="1605229433045">
+      <screen x="0" y="0" width="2318" height="1265" />
+    </state>
+    <state x="275" y="457" key="com.intellij.ide.util.TipDialog/0.0.2318.1265@0.0.2318.1265" timestamp="1605229433045" />
     <state x="237" y="301" key="run.anything.popup" timestamp="1605180160627">
       <screen x="0" y="0" width="2318" height="1265" />
     </state>
